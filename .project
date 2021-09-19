@@ -4,6 +4,7 @@
 	<comment></comment>
 	<projects>
 	</projects>
+	<!--- this is a comment -->
 	<buildSpec>
 		<buildCommand>
 			<name>org.eclipse.jdt.core.javabuilder</name>
